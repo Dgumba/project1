@@ -1,4 +1,5 @@
-﻿  OS.cpp
-  Source.cpp
+﻿  UIcontroller.cpp
+C:\Users\stud\Documents\GitHub\project1\OS\OS\UIcontrollerHEAD.h(1,9): warning C4068: неизвестная прагма "on"
+  OS.cpp
   Создание кода...
   OS.vcxproj -> C:\Users\stud\Documents\GitHub\project1\OS\x64\Debug\OS.exe
