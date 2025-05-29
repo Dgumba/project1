@@ -127,12 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="InputController.cpp" />
+    <ClCompile Include="OutputController.cpp" />
     <ClCompile Include="UIcontroller.cpp" />
     <ClCompile Include="OS.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="controller.h" />
+    <ClInclude Include="inputcontroller.h" />
+    <ClInclude Include="outputcontroller.h" />
     <ClInclude Include="UIcontrollerHEAD.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

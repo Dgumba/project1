@@ -33,12 +33,24 @@
     <ClCompile Include="UIcontroller.cpp">
       <Filter>Исходные файлы\View</Filter>
     </ClCompile>
+    <ClCompile Include="InputController.cpp">
+      <Filter>Исходные файлы\View</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputController.cpp">
+      <Filter>Исходные файлы\View</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="controller.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="UIcontrollerHEAD.h">
+      <Filter>Исходные файлы\View</Filter>
+    </ClInclude>
+    <ClInclude Include="inputcontroller.h">
+      <Filter>Исходные файлы\View</Filter>
+    </ClInclude>
+    <ClInclude Include="outputcontroller.h">
       <Filter>Исходные файлы\View</Filter>
     </ClInclude>
   </ItemGroup>
